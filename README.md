@@ -1,2 +1,0 @@
-# thinklife.github.io
-First
